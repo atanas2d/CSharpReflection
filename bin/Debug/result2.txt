@@ -1,0 +1,4 @@
+ReflectionFilesExr.Building
+BuildingType : House
+Area : 254
+Address : 254-House

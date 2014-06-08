@@ -1,0 +1,6 @@
+C:\CSharp Projects\ReflectionFilesExr\ReflectionFilesExr\bin\Debug\ReflectionFilesExr.exe.config
+C:\CSharp Projects\ReflectionFilesExr\ReflectionFilesExr\bin\Debug\ReflectionFilesExr.exe
+C:\CSharp Projects\ReflectionFilesExr\ReflectionFilesExr\bin\Debug\ReflectionFilesExr.pdb
+C:\CSharp Projects\ReflectionFilesExr\ReflectionFilesExr\obj\Debug\ReflectionFilesExr.csprojResolveAssemblyReference.cache
+C:\CSharp Projects\ReflectionFilesExr\ReflectionFilesExr\obj\Debug\ReflectionFilesExr.exe
+C:\CSharp Projects\ReflectionFilesExr\ReflectionFilesExr\obj\Debug\ReflectionFilesExr.pdb
